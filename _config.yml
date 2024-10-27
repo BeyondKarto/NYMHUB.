@@ -1,4 +1,6 @@
 title: NYMHUB.
 description: A website for NSL community
+baseurl: "" 
+url: "https://github.com/BeyondKarto/NYMHUB..git"
 theme: theme: jekyll-theme-cayman
 markdown: kramdown
