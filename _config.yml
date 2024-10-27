@@ -1,3 +1,4 @@
 title: NYMHUB.
 description: A website for NSL community
 theme: theme: jekyll-theme-cayman
+markdown: kramdown
